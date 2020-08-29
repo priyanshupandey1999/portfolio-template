@@ -8,11 +8,8 @@
     /* overflow-x: hidden;     */
     }
     body{
-    /* overflow-x: hidden; */
+/*     overflow-x: hidden; */
 
-    }
-    html{
-        overflow-x: hidden;
     }
     header{
         height:100vh;
@@ -676,7 +673,7 @@
     @media screen and (max-width: 800px){
 
         body{
-            /* overflow-x: hidden; */
+/*             overflow-x: hidden; */
         }
         .logo img{
             width:20vw;
